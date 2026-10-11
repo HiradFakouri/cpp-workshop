@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/02_custom_data_structures.dir/exercises/02_custom_data_structures.cpp.o -o 02_custom_data_structures

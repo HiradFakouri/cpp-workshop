@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/cmake_install.cmake",
+		"/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/01-foundations/cmake_install.cmake",
+		"/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/02-classes/cmake_install.cmake",
+		"/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/04-pointers/cmake_install.cmake",
+		"/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/06-our-code/cmake_install.cmake",
+		"/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/07-debugging/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

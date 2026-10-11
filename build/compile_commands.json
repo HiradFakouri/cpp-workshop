@@ -1,0 +1,128 @@
+[
+{
+  "directory": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/01-foundations",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/01_loops_and_data_types.dir/exercises/01_loops_and_data_types.cpp.o -c /Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/01-foundations/exercises/01_loops_and_data_types.cpp",
+  "file": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/01-foundations/exercises/01_loops_and_data_types.cpp",
+  "output": "01-foundations/CMakeFiles/01_loops_and_data_types.dir/exercises/01_loops_and_data_types.cpp.o"
+},
+{
+  "directory": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/01-foundations",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/02_custom_data_structures.dir/exercises/02_custom_data_structures.cpp.o -c /Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/01-foundations/exercises/02_custom_data_structures.cpp",
+  "file": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/01-foundations/exercises/02_custom_data_structures.cpp",
+  "output": "01-foundations/CMakeFiles/02_custom_data_structures.dir/exercises/02_custom_data_structures.cpp.o"
+},
+{
+  "directory": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/01-foundations",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/03_reading_compiler_errors.dir/exercises/03_reading_compiler_errors.cpp.o -c /Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/01-foundations/exercises/03_reading_compiler_errors.cpp",
+  "file": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/01-foundations/exercises/03_reading_compiler_errors.cpp",
+  "output": "01-foundations/CMakeFiles/03_reading_compiler_errors.dir/exercises/03_reading_compiler_errors.cpp.o"
+},
+{
+  "directory": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/01-foundations",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/04_const_correctness.dir/exercises/04_const_correctness.cpp.o -c /Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/01-foundations/exercises/04_const_correctness.cpp",
+  "file": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/01-foundations/exercises/04_const_correctness.cpp",
+  "output": "01-foundations/CMakeFiles/04_const_correctness.dir/exercises/04_const_correctness.cpp.o"
+},
+{
+  "directory": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/02-classes",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/01_single_file_class.dir/exercises/01_single_file_class.cpp.o -c /Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/02-classes/exercises/01_single_file_class.cpp",
+  "file": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/02-classes/exercises/01_single_file_class.cpp",
+  "output": "02-classes/CMakeFiles/01_single_file_class.dir/exercises/01_single_file_class.cpp.o"
+},
+{
+  "directory": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/02-classes",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/02_header_source_split.dir/exercises/02_header_source_split/ConeLog.cpp.o -c /Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/02-classes/exercises/02_header_source_split/ConeLog.cpp",
+  "file": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/02-classes/exercises/02_header_source_split/ConeLog.cpp",
+  "output": "02-classes/CMakeFiles/02_header_source_split.dir/exercises/02_header_source_split/ConeLog.cpp.o"
+},
+{
+  "directory": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/02-classes",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/02_header_source_split.dir/exercises/02_header_source_split/main.cpp.o -c /Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/02-classes/exercises/02_header_source_split/main.cpp",
+  "file": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/02-classes/exercises/02_header_source_split/main.cpp",
+  "output": "02-classes/CMakeFiles/02_header_source_split.dir/exercises/02_header_source_split/main.cpp.o"
+},
+{
+  "directory": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/02-classes",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/03_wiring_header_files.dir/exercises/03_wiring_header_files/Odometer.cpp.o -c /Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/02-classes/exercises/03_wiring_header_files/Odometer.cpp",
+  "file": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/02-classes/exercises/03_wiring_header_files/Odometer.cpp",
+  "output": "02-classes/CMakeFiles/03_wiring_header_files.dir/exercises/03_wiring_header_files/Odometer.cpp.o"
+},
+{
+  "directory": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/02-classes",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/03_wiring_header_files.dir/exercises/03_wiring_header_files/main.cpp.o -c /Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/02-classes/exercises/03_wiring_header_files/main.cpp",
+  "file": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/02-classes/exercises/03_wiring_header_files/main.cpp",
+  "output": "02-classes/CMakeFiles/03_wiring_header_files.dir/exercises/03_wiring_header_files/main.cpp.o"
+},
+{
+  "directory": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/02-classes",
+  "command": "/usr/bin/c++  -I/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/02-classes/exercises/05_class_across_multiple_files/include -g -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/05_class_across_multiple_files.dir/exercises/05_class_across_multiple_files/src/Recording.cpp.o -c /Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/02-classes/exercises/05_class_across_multiple_files/src/Recording.cpp",
+  "file": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/02-classes/exercises/05_class_across_multiple_files/src/Recording.cpp",
+  "output": "02-classes/CMakeFiles/05_class_across_multiple_files.dir/exercises/05_class_across_multiple_files/src/Recording.cpp.o"
+},
+{
+  "directory": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/02-classes",
+  "command": "/usr/bin/c++  -I/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/02-classes/exercises/05_class_across_multiple_files/include -g -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/05_class_across_multiple_files.dir/exercises/05_class_across_multiple_files/src/Geometry.cpp.o -c /Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/02-classes/exercises/05_class_across_multiple_files/src/Geometry.cpp",
+  "file": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/02-classes/exercises/05_class_across_multiple_files/src/Geometry.cpp",
+  "output": "02-classes/CMakeFiles/05_class_across_multiple_files.dir/exercises/05_class_across_multiple_files/src/Geometry.cpp.o"
+},
+{
+  "directory": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/02-classes",
+  "command": "/usr/bin/c++  -I/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/02-classes/exercises/05_class_across_multiple_files/include -g -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/05_class_across_multiple_files.dir/exercises/05_class_across_multiple_files/src/Colours.cpp.o -c /Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/02-classes/exercises/05_class_across_multiple_files/src/Colours.cpp",
+  "file": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/02-classes/exercises/05_class_across_multiple_files/src/Colours.cpp",
+  "output": "02-classes/CMakeFiles/05_class_across_multiple_files.dir/exercises/05_class_across_multiple_files/src/Colours.cpp.o"
+},
+{
+  "directory": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/02-classes",
+  "command": "/usr/bin/c++  -I/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/02-classes/exercises/05_class_across_multiple_files/include -g -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/05_class_across_multiple_files.dir/exercises/05_class_across_multiple_files/src/main.cpp.o -c /Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/02-classes/exercises/05_class_across_multiple_files/src/main.cpp",
+  "file": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/02-classes/exercises/05_class_across_multiple_files/src/main.cpp",
+  "output": "02-classes/CMakeFiles/05_class_across_multiple_files.dir/exercises/05_class_across_multiple_files/src/main.cpp.o"
+},
+{
+  "directory": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/04-pointers",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/01_pointers_and_references_basics.dir/exercises/01_pointers_and_references_basics.cpp.o -c /Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/04-pointers/exercises/01_pointers_and_references_basics.cpp",
+  "file": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/04-pointers/exercises/01_pointers_and_references_basics.cpp",
+  "output": "04-pointers/CMakeFiles/01_pointers_and_references_basics.dir/exercises/01_pointers_and_references_basics.cpp.o"
+},
+{
+  "directory": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/04-pointers",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/02_star_vs_amp.dir/exercises/02_star_vs_amp.cpp.o -c /Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/04-pointers/exercises/02_star_vs_amp.cpp",
+  "file": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/04-pointers/exercises/02_star_vs_amp.cpp",
+  "output": "04-pointers/CMakeFiles/02_star_vs_amp.dir/exercises/02_star_vs_amp.cpp.o"
+},
+{
+  "directory": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/04-pointers",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/03_swap.dir/exercises/03_swap.cpp.o -c /Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/04-pointers/exercises/03_swap.cpp",
+  "file": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/04-pointers/exercises/03_swap.cpp",
+  "output": "04-pointers/CMakeFiles/03_swap.dir/exercises/03_swap.cpp.o"
+},
+{
+  "directory": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/04-pointers",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/04_rewrite_with_pointers.dir/exercises/04_rewrite_with_pointers.cpp.o -c /Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/04-pointers/exercises/04_rewrite_with_pointers.cpp",
+  "file": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/04-pointers/exercises/04_rewrite_with_pointers.cpp",
+  "output": "04-pointers/CMakeFiles/04_rewrite_with_pointers.dir/exercises/04_rewrite_with_pointers.cpp.o"
+},
+{
+  "directory": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/06-our-code",
+  "command": "/usr/bin/c++  -isystem /opt/homebrew/include/eigen3 -g -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/01_real_structures.dir/exercises/01_real_structures.cpp.o -c /Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/06-our-code/exercises/01_real_structures.cpp",
+  "file": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/06-our-code/exercises/01_real_structures.cpp",
+  "output": "06-our-code/CMakeFiles/01_real_structures.dir/exercises/01_real_structures.cpp.o"
+},
+{
+  "directory": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/06-our-code",
+  "command": "/usr/bin/c++  -isystem /opt/homebrew/include/eigen3 -g -std=gnu++17 -arch arm64 -Wall -Wextra -o CMakeFiles/02_eigen_basics.dir/exercises/02_eigen_basics.cpp.o -c /Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/06-our-code/exercises/02_eigen_basics.cpp",
+  "file": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/06-our-code/exercises/02_eigen_basics.cpp",
+  "output": "06-our-code/CMakeFiles/02_eigen_basics.dir/exercises/02_eigen_basics.cpp.o"
+},
+{
+  "directory": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/07-debugging",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -arch arm64 -Wall -Wextra -g -o CMakeFiles/01_segfault_and_gdb.dir/exercises/01_segfault_and_gdb.cpp.o -c /Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/07-debugging/exercises/01_segfault_and_gdb.cpp",
+  "file": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/07-debugging/exercises/01_segfault_and_gdb.cpp",
+  "output": "07-debugging/CMakeFiles/01_segfault_and_gdb.dir/exercises/01_segfault_and_gdb.cpp.o"
+},
+{
+  "directory": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/build/07-debugging",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -arch arm64 -Wall -Wextra -g -o CMakeFiles/02_stepping_through_a_bug.dir/exercises/02_stepping_through_a_bug.cpp.o -c /Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/07-debugging/exercises/02_stepping_through_a_bug.cpp",
+  "file": "/Users/hiradfakouri/Projects/ugr_driverless/landm/localisation-and-mapping-onboarding/cpp_workshop/07-debugging/exercises/02_stepping_through_a_bug.cpp",
+  "output": "07-debugging/CMakeFiles/02_stepping_through_a_bug.dir/exercises/02_stepping_through_a_bug.cpp.o"
+}
+]

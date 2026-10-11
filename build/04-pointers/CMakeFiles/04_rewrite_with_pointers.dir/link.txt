@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/04_rewrite_with_pointers.dir/exercises/04_rewrite_with_pointers.cpp.o -o 04_rewrite_with_pointers

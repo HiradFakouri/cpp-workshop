@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/02_star_vs_amp.dir/exercises/02_star_vs_amp.cpp.o -o 02_star_vs_amp

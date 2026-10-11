@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/03_wiring_header_files.dir/exercises/03_wiring_header_files/Odometer.cpp.o CMakeFiles/03_wiring_header_files.dir/exercises/03_wiring_header_files/main.cpp.o -o 03_wiring_header_files
